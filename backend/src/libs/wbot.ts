@@ -1,5 +1,5 @@
 import * as Sentry from "@sentry/node";
-import makeWALegacySocket, makeWASocket, {
+import makeWASocket, {
   WASocket,
   AuthenticationState,
   DisconnectReason,
